@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "741086450399",
+    "firebase_url": "https://b-hero-66140.firebaseio.com",
+    "project_id": "b-hero-66140",
+    "storage_bucket": "b-hero-66140.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741086450399:android:bcd7bffc89712d84980f6a",
+        "android_client_info": {
+          "package_name": "com.ethioptech.b_hero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741086450399-i24ogf4g4obs7lkeqprlip3nr7id4dfh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ethioptech.b_hero",
+            "certificate_hash": "558eb3817bdcb699e8efadd3282f10cbb1aa86c6"
+          }
+        },
+        {
+          "client_id": "741086450399-i7puvrhhk7or22b49getttotf8aadi4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ethioptech.b_hero",
+            "certificate_hash": "432c3eaa564e9c3e2709634359e6d27321a4ffc5"
+          }
+        },
+        {
+          "client_id": "741086450399-5m7jj3e9pv9ep481joa8brph2roa14aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq6ginKrgCpaAmRmkxJvc85iL8fPfnFqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741086450399-5m7jj3e9pv9ep481joa8brph2roa14aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
